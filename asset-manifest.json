@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weblight/static/css/main.50d702fc.css",
+    "main.js": "/weblight/static/js/main.a995d42d.js",
+    "static/js/453.e049c67b.chunk.js": "/weblight/static/js/453.e049c67b.chunk.js",
+    "index.html": "/weblight/index.html",
+    "main.50d702fc.css.map": "/weblight/static/css/main.50d702fc.css.map",
+    "main.a995d42d.js.map": "/weblight/static/js/main.a995d42d.js.map",
+    "453.e049c67b.chunk.js.map": "/weblight/static/js/453.e049c67b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d702fc.css",
+    "static/js/main.a995d42d.js"
+  ]
+}
