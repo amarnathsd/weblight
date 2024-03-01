@@ -17,12 +17,12 @@ body {
   top: 0;
   width: 100%;
   text-align: center;
-  background-color: lightblue;
+  background-color: #1fafe3bf;
   z-index: 100;
 }
 .grid {
   cursor: pointer;
-  background: #70f2b4bf !important;
+  background: #1fafe3bf !important;
   padding: 0px 25px !important;
   margin: 10px !important;
   border-radius: 10px !important;
@@ -77,6 +77,6 @@ body {
   align-items: center;
   padding: 1rem;
   border-radius: 10px;
-  background-color: #70f2b4bf;
+  background-color: #1fafe3bf;
   margin: 20px auto;
 }
